@@ -22,7 +22,7 @@
 }
 .logo
 {
-    background-image: url("/assests/img/amazon-logo.png");
+    background-image: url("/assets/img/amazon-logo.png");
     background-size:cover;
     height: 50px;
     width: 100%;
@@ -148,7 +148,7 @@ span{
 
 /*herosection*/
 .hero-sec{
-    background-image: url("/assests/img/one.jpg");
+    background-image: url("/assets/img/one.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
@@ -261,7 +261,7 @@ span{
  }
 
  .logo{
-    background-image: url("/assests/img/amazon-logo.png");
+    background-image: url("/assets/img/amazon-logo.png");
     background-size:cover;
     height: 50px;
     width: 100px;
